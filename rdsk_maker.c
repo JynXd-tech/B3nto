@@ -6,7 +6,7 @@
  * gcc rdsk_maker.c -o rdsk_maker
  *
  * [How to use]
- * ./rdsk_maker ramdisk iboot_p1.bin payload.bin
+ * ./rdsk_maker in out iboot_p1.bin payload.bin
  *
  */
 
